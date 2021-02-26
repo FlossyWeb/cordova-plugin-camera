@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-camera-flossy",
-  "version": "5.0.2-dev",
+  "version": "5.0.2-flossy",
   "description": "Cordova Camera Plugin",
   "types": "./types/index.d.ts",
   "cordova": {
